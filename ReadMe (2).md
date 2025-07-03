@@ -1,4 +1,4 @@
-# CS201_Project
+# Self Project
 # INPUT:-
   We can take input by two ways 
 1. By entering 'I' we can insert data point directly using the console.
